@@ -1,1 +1,1 @@
-Se agregó el botón para desplazarse al final de la conversación ahora no solo puedes escrolear sino también desplazarte con un solo toque 
+Despreocúpate de volver a guardar la conversación ahora los mensajes se guardan automáticamente al seleccionar una conversación que ya tenías guardada los nuevos mensajes que envíes y recibas de la Inteligencia artificial se guardan automáticamente en el archivo y no tienes que volver a guardar la conversación en otro archivo 
